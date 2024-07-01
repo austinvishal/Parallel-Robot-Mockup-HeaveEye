@@ -25,12 +25,14 @@ A new class of fully parallel 4-dof, 4-legged parallel mechanism, providing thre
 A library of graphical and computational tools has been written in order to simplify the analysis and to provide a sophisticated and effective mockup. A special geometry particularly feasible for laproscopic surgery has been investigated by flipping the mechanism.
 
 </p>
+
 <p align="center">
 
 ![thumbnail](https://github.com/austinvishal/Parallel-Robot-Mockup-HeaveEye/assets/3451204/3af5cbbd-dc3c-476e-8008-1870060f66c7)
 
 </p>
-### Acknowledgements
+
+# Acknowledgements
 
 - I would like to acknowledge the article titled "Analytical kinematics models and special geometries of a class of 4-DOF parallel mechanisms" by M.Zoppi et al.
 
