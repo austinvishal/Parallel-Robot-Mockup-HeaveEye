@@ -19,7 +19,11 @@ V. Ramadoss : Visit my Youtube channel by clicking the video preview below
 
 
 </p>
+<p align="center">
 
+![thumbnail](https://github.com/austinvishal/Parallel-Robot-Mockup-HeaveEye/assets/3451204/3af5cbbd-dc3c-476e-8008-1870060f66c7)
+
+</p>
 ### Acknowledgements
 
 - I would like to acknowledge the article titled "Analytical kinematics models and special geometries of a class of 4-DOF parallel mechanisms" by M.Zoppi et al.
