@@ -1,5 +1,5 @@
 <h1 align="center">
-Parallel Robot mockup of parallel robot based  on spherical geometry : Heave Eye</h1>
+Parallel Robot mockup : 4-DOF Heave eye based  on spherical geometry </h1>
 <div align="center">
 <i>
 V. Ramadoss : Visit my Youtube channel by clicking the video preview below
